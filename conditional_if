@@ -1,0 +1,20 @@
+Codecademy/Pro
+
+Javascript: CONDITIONAL STATEMENTS
+The if keyword
+
+let sale = true;
+
+sale = false;
+
+if(sale) {
+  console.log('Time to buy!');
+}
+//prints nothing
+
+
+let sale = true;
+if(sale) {
+  console.log('Time to buy!');
+}
+//prints Time to buy
